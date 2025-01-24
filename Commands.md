@@ -1,3 +1,6 @@
+# Collected List of Linux Commands & Jargon
+### First sourced from Chris Titus Tech
+
 | Base Command | Action |
 |---|:---|
 |addgroup | Creates a new user group.|
