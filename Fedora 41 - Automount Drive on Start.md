@@ -9,7 +9,7 @@ lsblk -f
 - Partition Name example: /dev/nvme1n1p1
 - File System: BTFRS EXT4 ETC
 - UUID
-- Mount Pain
+- Mount Point
 
 
 ```bash
