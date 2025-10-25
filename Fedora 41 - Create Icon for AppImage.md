@@ -28,7 +28,7 @@ sudo nano <appimage.desktop>
 Type=Application  
 Name=Joplin-3.1.24.AppImage  
 Icon=/usr/share/icons/ePapirus-Dark/64x64/apps/appimagekit-joplin.svg  
-Exec=/home/grumpydonut/Applications/Joplin-3.1.24.AppImage  
+Exec=/home/username/Applications/Joplin-3.1.24.AppImage  
 Terminal=false  
 Hidden=false  
 Categories=Utility
